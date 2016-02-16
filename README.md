@@ -20,3 +20,8 @@ It is called a landing page, because it is the page you want people to land on.
 
 1. [Launchrock](https://www.launchrock.com/)
 2. [Startbootstrap landing page](https://github.com/BlackrockDigital/startbootstrap-landing-page)
+
+
+#### Examples:
+
+1. [Tazze personalizzate](http://tazze-personalizzate.launchrock.com/) by Siddi Carlotta.
